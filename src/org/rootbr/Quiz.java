@@ -10,5 +10,11 @@ public class Quiz {
         .filter(it -> false) // чтобы перебрать все элементы
         .findAny()
         .orElse(null);
+
+    Integer[][] Integer[][] = {{{{0}}}};
+    System.out.println(Integer.getClass().getName());
+    System.out.println(Integer.class.getName());
+    // [[[[Ljava.lang.Integer;
+    // java.lang.Integer
   }
 }
