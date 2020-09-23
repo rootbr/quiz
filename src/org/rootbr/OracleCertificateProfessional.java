@@ -3,7 +3,7 @@ package org.rootbr;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Main {
+public class OracleCertificateProfessional {
 
   public static void main(String[] args) {
     // What data type (or types) will allow the following code snippet to compile? (Choose all that apply)
